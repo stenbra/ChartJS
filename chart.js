@@ -14,7 +14,7 @@ new Chart(document.getElementById("chart"),{
 		legend: {display: false},
 		title: {
 			display: true,
-			text: "Regnmängd i Finland"
+			text: "Regnmängd i Finland (medeltal)"
 		}
 	}
 });
